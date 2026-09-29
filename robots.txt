@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.xlsfrrn.cn/sitemap.xml
